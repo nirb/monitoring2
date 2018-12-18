@@ -1,7 +1,7 @@
 {
   "main.css": "/monitoring2/static/css/main.5ce5be36.chunk.css",
-  "main.js": "/monitoring2/static/js/main.6f8c3dd3.chunk.js",
-  "main.js.map": "/monitoring2/static/js/main.6f8c3dd3.chunk.js.map",
+  "main.js": "/monitoring2/static/js/main.0003475a.chunk.js",
+  "main.js.map": "/monitoring2/static/js/main.0003475a.chunk.js.map",
   "static/js/1.f1855650.chunk.js": "/monitoring2/static/js/1.f1855650.chunk.js",
   "static/js/1.f1855650.chunk.js.map": "/monitoring2/static/js/1.f1855650.chunk.js.map",
   "static/css/2.e4b236a2.chunk.css": "/monitoring2/static/css/2.e4b236a2.chunk.css",
@@ -18,9 +18,9 @@
   "static/media/orbitBanner.png": "/monitoring2/static/media/orbitBanner.13e59aff.png",
   "static/media/orbitNewLogo2.png": "/monitoring2/static/media/orbitNewLogo2.c3b9401f.png",
   "static/media/pe-icon-7-stroke.css": "/monitoring2/static/media/Pe-icon-7-stroke.c45f7de0.svg",
-  "static/css/main.5ce5be36.chunk.css.map": "/monitoring2/static/css/main.5ce5be36.chunk.css.map",
   "static/css/2.e4b236a2.chunk.css.map": "/monitoring2/static/css/2.e4b236a2.chunk.css.map",
+  "static/css/main.5ce5be36.chunk.css.map": "/monitoring2/static/css/main.5ce5be36.chunk.css.map",
   "index.html": "/monitoring2/index.html",
-  "precache-manifest.275f8e9644b8c76b9a0349dca58e7302.js": "/monitoring2/precache-manifest.275f8e9644b8c76b9a0349dca58e7302.js",
+  "precache-manifest.02f53117c94fdf1fa8a50bce7c92c105.js": "/monitoring2/precache-manifest.02f53117c94fdf1fa8a50bce7c92c105.js",
   "service-worker.js": "/monitoring2/service-worker.js"
 }
