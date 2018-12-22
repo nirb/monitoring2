@@ -1,0 +1,72 @@
+{
+  "short_name": "Orbit",
+  "name": "TECNOLOGIAS DE MONITOREO",
+  "description": "Tanks Monitoring APP",
+  "icons": [  
+    {
+      "src": "48icon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "72icon.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "76icon.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "96icon.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "120icon.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "144icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "152icon.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },    
+    {
+      "src": "167icon.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "180icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "192icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "512icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "1024icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
